@@ -1,6 +1,6 @@
 # code the #greeting method here!
 def greetings(name)
   
-puts"Hello #{name}  It's nice to meet you."
+puts"Hello #{name}. It's nice to meet you."
 
 end
